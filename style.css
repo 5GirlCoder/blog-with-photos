@@ -1,0 +1,29 @@
+body {
+    text-align:center;
+}
+ 
+img {
+   width:500px;
+   border-style:solid;
+   border-color:#F06292;
+     border-width: 3px;
+}
+ 
+p {
+     font-size: 20px;
+}
+ 
+.position {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: lightslategray;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.outposition {
+    display : flex;
+    justify-content :center; 
+}
